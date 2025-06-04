@@ -1,10 +1,9 @@
-//? Variaveis
-var firstName = 'Lucas';
-var _lastName = 'Tenório';
-var age = 30;
-var $year = 2025;
+for (var i = 0; i <= 10; i++) {
+  console.log(i);
+}
 
-console.log($year);
-console.log(_lastName);
-console.log(firstName);
-console.log(age);
+console.log(i);
+
+console.log('teste ====>', teste1);
+
+var teste1 = 'teste1';
